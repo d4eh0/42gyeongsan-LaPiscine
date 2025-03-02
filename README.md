@@ -26,3 +26,5 @@ Project|Language|Status|Percentage|
 |Exam 02|C|🟢|80%|
 |Exam 03|C|🟢|90%|
 |Exam Final|C|🟢|<span style="color:yellowgreen; font-weight:bold;"> 84% </span>|
+
+https://github.com/d4eh0/42gyeongsan-LaPiscine-files
